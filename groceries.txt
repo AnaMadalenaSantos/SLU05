@@ -2,4 +2,3 @@ Grapes
 Limes
 Apples
 Pears
-Butter
